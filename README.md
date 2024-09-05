@@ -18,16 +18,12 @@ cd mario-jump
 Abra o arquivo index.html em um navegador para jogar.
 
 ## Estrutura do Projeto
-index.html: Arquivo HTML principal.
-
-styles.css: Folha de estilo para a aparência do jogo.
-
-script.js: Arquivo JavaScript para lógica do jogo.
-
-Imagens/: Diretório com imagens usadas no jogo.
-
+- **index.html**: Arquivo HTML principal.
+- **styles.css**: Folha de estilo para a aparência do jogo.
+- **script.js**: Arquivo JavaScript para lógica do jogo.
+- **Imagens/**: Diretório com imagens usadas no jogo.
 
 ## Tecnologias Utilizadas
-**HTML**
-**CSS**
-**JavaScript**
+- **HTML**.
+- **CSS**.
+- **Javascript**.
