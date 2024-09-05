@@ -1,4 +1,4 @@
-## MARIO JUMP
+# MARIO JUMP
 Um simples jogo de plataforma inspirado no clássico Mario. Neste jogo, o Mario deve saltar para evitar obstáculos enquanto corre.
 
 ## Funcionalidades
@@ -28,8 +28,6 @@ Imagens/: Diretório com imagens usadas no jogo.
 
 
 ## Tecnologias Utilizadas
-HTML
-
-CSS
-
-JavaScript
+**HTML**
+**CSS**
+**JavaScript**
